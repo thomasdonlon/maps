@@ -1,2 +1,5 @@
+v1.1
+ - First functional MAPs pipeline, consistent with description in Donlon et al. (2023)
+
 v0.1.0
  - creation

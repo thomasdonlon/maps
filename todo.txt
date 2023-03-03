@@ -1,3 +1,4 @@
  - automatic determination of period if fund. period is not in fft (happens if period is smaller than sample frequency/2, like it can be in delta scutis etc)
  	- probably divide by # peaks in folded light curve (recursively?) until # peaks = 1
  	- then do a low-res optimization around that 
+ 	- this is probably only necessary for very small period stars like KIC 7106205
